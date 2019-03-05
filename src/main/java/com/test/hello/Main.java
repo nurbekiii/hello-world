@@ -6,7 +6,7 @@ package com.test.hello;
 public class Main {
 
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello world11");
+        System.out.println("Hello world2222");
     }
 
 }
