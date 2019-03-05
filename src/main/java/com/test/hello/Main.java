@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
 
-        if(true) {
+        if(true==) {
             System.out.println("Hello world2222");
             System.out.println("Hello world2222");
             System.out.println("Hello world2222");
