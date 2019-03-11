@@ -5,9 +5,11 @@ package com.test.hello;
  */
 public class Main {
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args){
 
-        if(true==) {
+        String ss = "Hello";
+
+        if(!ss.contains("Hel1")hhh) {
             System.out.println("Hello world2222");
             System.out.println("Hello world2222");
             System.out.println("Hello world2222");
