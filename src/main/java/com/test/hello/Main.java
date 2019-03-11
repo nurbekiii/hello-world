@@ -9,7 +9,7 @@ public class Main {
 
         String ss = "Hello";
 
-        if(ss.contains("Hel")) {
+        if(!ss.contains("Hel1")) {
             System.out.println("Hello world2222");
             System.out.println("Hello world2222");
             System.out.println("Hello world2222");
