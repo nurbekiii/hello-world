@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args){
 
-        String ss = "Hello";
+        String ss = "Hellossss";
 
         if(!ss.contains("Hel1")) {
             System.out.println("Hello world2222");
