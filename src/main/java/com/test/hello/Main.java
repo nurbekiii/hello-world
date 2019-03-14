@@ -7,8 +7,8 @@ public class Main {
 
     public static void main(String[] args){
 
-        String ss = "Hellossss";
-        String kkk = "asdasdadads";
+        String ss = "Hello";
+        String kkk = "asdasdasdsdad";
 
         if(!ss.contains("Hel1")) {
             System.out.println("Hello world2222");
