@@ -1,0 +1,200 @@
+<?xml version = '1.0' encoding = 'windows-1251'?>
+<ROWSET>
+    <ROW num="5">
+        <MSG>
+            <MSGNUM>1641</MSGNUM>
+            <MSGDATE>06/29/2020 0:0:0</MSGDATE>
+            <PAGECOUNT>4</PAGECOUNT>
+            <MSGTYPE>1</MSGTYPE>
+        </MSG>
+        <PERSON>
+            <ORG_KIND>01</ORG_KIND>
+            <REGNUM>12345678</REGNUM>
+            <BANK_BIC>00</BANK_BIC>
+            <OKPO>234567</OKPO>
+            <ORGFORM_CODE>23</ORGFORM_CODE>
+            <PERSON_NAME>ОсОО Баланс</PERSON_NAME>
+            <BRANCH>ОсОО Баланс</BRANCH>
+            <LEGAL_ADDRESS>
+                <POSTCODE>720000</POSTCODE>
+                <TOWN_CODE>41711000000000</TOWN_CODE>
+                <REGION>БИШКЕК</REGION>
+                <TOWN>,Г. БИШКЕК</TOWN>
+                <STREET>ул Московская</STREET>
+                <HOUSE>125</HOUSE>
+                <ROOM>23</ROOM>
+            </LEGAL_ADDRESS>
+            <NATURAL_ADDRESS>
+                <POSTCODE>720000</POSTCODE>
+                <TOWN_CODE>41711000000000</TOWN_CODE>
+                <REGION>БИШКЕК</REGION>
+                <TOWN>,Г. БИШКЕК</TOWN>
+                <STREET>ул Московская</STREET>
+                <HOUSE>125</HOUSE>
+                <ROOM>45</ROOM>
+            </NATURAL_ADDRESS>
+            <PERFORMER>
+                <NAME>Станислав Муковоз</NAME>
+                <POST>Ген дир ОсОО Баланс</POST>
+            </PERFORMER>
+        </PERSON>
+        <OPER>
+            <OPERDATE>05/08/2020 15:54:00</OPERDATE>
+            <OPER_CODE>8001</OPER_CODE>
+            <SUMCUR>4370.00</SUMCUR>
+            <CUR_CODES>KGS</CUR_CODES>
+            <SUMTGT>4370.00</SUMTGT>
+            <SUM>4370.00</SUM>
+            <REASON>Beeline/996775782339, payment_id: 25742498</REASON>
+            <LIMIT_CODES>10018</LIMIT_CODES>
+            <SHADY_CODES>00</SHADY_CODES>
+            <STATUS_CODE>1</STATUS_CODE>
+            <PRTCOUNT>3</PRTCOUNT>
+            <EXTRAINFO>996773905665, ЛОН</EXTRAINFO>
+        </OPER>
+        <PRTLIST>
+            <PRTLIST_ITEM num="1">
+                <PAGENUM>002Ф</PAGENUM>
+                <PARTICIPANT>
+                    <PARTIC_KIND>01</PARTIC_KIND>
+                    <PHYSNAME>
+                        <LASTNAME>Айтпекович</LASTNAME>
+                        <FIRSTNAME>Адыракаев</FIRSTNAME>
+                        <MIDDLENAME>Расул</MIDDLENAME>
+                    </PHYSNAME>
+                    <REGNUM>20101198503543</REGNUM>
+                    <NATION_CODE>417</NATION_CODE>
+                    <OWNER>
+                    </OWNER>
+                    <LEGAL_ADDRESS>
+                        <REGION>00</REGION>
+                        <AREA>00</AREA>
+                        <TOWN>00</TOWN>
+                        <STREET>Московская 125</STREET>
+                        <HOUSE>00</HOUSE>
+                        <ROOM>00</ROOM>
+                    </LEGAL_ADDRESS>
+                    <NATURAL_ADDRESS>
+                        <REGION>00</REGION>
+                        <AREA>00</AREA>
+                        <TOWN>00</TOWN>
+                        <STREET>Московская 125</STREET>
+                    </NATURAL_ADDRESS>
+                    <DOC>
+                        <DOC_CODE>05</DOC_CODE>
+                        <SERIES>00</SERIES>
+                        <NUM>AN3939293</NUM>
+                        <ISSUEDATE>05/23/2013 0:0:0</ISSUEDATE>
+                        <ORGAN>MMC 59-20</ORGAN>
+                        <BIRTHDATE>01/01/1985 0:0:0</BIRTHDATE>
+                    </DOC>
+                </PARTICIPANT>
+                <ACCOUNT>
+                    <NUM>996773905665</NUM>
+                    <BANK>00</BANK>
+                    <BIC>00</BIC>
+                    <COUNTRY_CODE>00</COUNTRY_CODE>
+                    <STATE>2</STATE>
+                    <ADDRESS>00</ADDRESS>
+                </ACCOUNT>
+                <SHARES>
+                    <QTY>00</QTY>
+                </SHARES>
+            </PRTLIST_ITEM>
+            <PRTLIST_ITEM num="2">
+                <PAGENUM>003Ф</PAGENUM>
+                <PARTICIPANT>
+                    <PARTIC_KIND>02</PARTIC_KIND>
+                    <PHYSNAME>
+                        <LASTNAME>00</LASTNAME>
+                        <FIRSTNAME>00</FIRSTNAME>
+                        <MIDDLENAME>00</MIDDLENAME>
+                    </PHYSNAME>
+                    <REGNUM>00</REGNUM>
+                    <NATION_CODE>00</NATION_CODE>
+                    <OWNER>
+                    </OWNER>
+                    <LEGAL_ADDRESS>
+                        <POSTCODE>00</POSTCODE>
+                        <TOWN_CODE>00</TOWN_CODE>
+                        <REGION>00</REGION>
+                        <AREA>00</AREA>
+                        <STREET>00</STREET>
+                        <HOUSE>00</HOUSE>
+                        <ROOM>00</ROOM>
+                    </LEGAL_ADDRESS>
+                    <NATURAL_ADDRESS>
+                        <POSTCODE>00</POSTCODE>
+                        <TOWN_CODE>00</TOWN_CODE>
+                        <REGION>00</REGION>
+                        <AREA>00</AREA>
+                        <STREET>00</STREET>
+                    </NATURAL_ADDRESS>
+                    <DOC>
+                        <DOC_CODE>00</DOC_CODE>
+                        <SERIES>00</SERIES>
+                        <NUM>00</NUM>
+                        <ORGAN>00</ORGAN>
+                        <BIRTHPLACE>00</BIRTHPLACE>
+                    </DOC>
+                </PARTICIPANT>
+                <ACCOUNT>
+                    <NUM>996775782339</NUM>
+                    <BANK>00</BANK>
+                    <BIC>00</BIC>
+                    <COUNTRY_CODE>00</COUNTRY_CODE>
+                    <STATE>1</STATE>
+                    <ADDRESS>00</ADDRESS>
+                </ACCOUNT>
+                <SHARES>
+                    <QTY>00</QTY>
+                </SHARES>
+            </PRTLIST_ITEM>
+            <PRTLIST_ITEM num='3'>
+                <PAGENUM>004Ф</PAGENUM>
+                <PARTICIPANT>
+                    <PARTIC_KIND>01</PARTIC_KIND>
+                    <PHYSNAME>
+                        <LASTNAME>Асанов</LASTNAME>
+                        <FIRSTNAME>Хасан</FIRSTNAME>
+                        <MIDDLENAME>Бектурович</MIDDLENAME>
+                    </PHYSNAME>
+                    <REGNUM>20505196504567</REGNUM>
+                    <NATION_CODE>417</NATION_CODE>
+                    <OWNER>
+                    </OWNER>
+                    <LEGAL_ADDRESS>
+                        <STREET>Киевская</STREET>
+                        <HOUSE>45</HOUSE>
+                        <ROOM>28</ROOM>
+                    </LEGAL_ADDRESS>
+                    <NATURAL_ADDRESS>
+                        <REGION>00</REGION>
+                        <AREA>00</AREA>
+                        <TOWN>00</TOWN>
+                        <STREET>Киевская</STREET>
+                        <HOUSE>89</HOUSE>
+                        <ROOM>11</ROOM>
+                    </NATURAL_ADDRESS>
+                    <DOC>
+                        <ISSUEDATE>06/04/2018 0:0:0</ISSUEDATE>
+                        <ORGAN>МКК 80-78</ORGAN>
+                        <BIRTHDATE>06/11/1965 0:0:0</BIRTHDATE>
+                    </DOC>
+                </PARTICIPANT>
+                <ACCOUNT>
+                    <NUM>996778662244</NUM>
+                    <BIC>00</BIC>
+                    <COUNTRY_CODE>00</COUNTRY_CODE>
+                    <STATE>2</STATE>
+                    <ADDRESS>00</ADDRESS>
+                </ACCOUNT>
+                <SHARES>
+                    <QTY>00</QTY>
+                </SHARES>
+            </PRTLIST_ITEM>
+        </PRTLIST>
+    </ROW>
+
+
+</ROWSET>

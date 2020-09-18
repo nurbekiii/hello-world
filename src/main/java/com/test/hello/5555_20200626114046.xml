@@ -1,0 +1,974 @@
+<?xml version = '1.0' encoding = 'windows-1251'?>
+<ROWSET>
+    <ROW num="12">
+        <MSG>
+            <MSGNUM>26</MSGNUM>
+            <MSGDATE>06/24/2020 0:0:0</MSGDATE>
+            <PAGECOUNT>1</PAGECOUNT>
+            <MSGTYPE>1</MSGTYPE>
+            <MSGNUM_REF>1</MSGNUM_REF>
+            <MSGDATE_REF>06/24/2020 0:0:0</MSGDATE_REF>
+        </MSG>
+        <PERSON>
+            <ORG_KIND>01</ORG_KIND>
+            <REGNUM>4563456</REGNUM>
+            <BANK_BIC>456456</BANK_BIC>
+            <OKPO>456456</OKPO>
+            <ORGFORM_CODE>02</ORGFORM_CODE>
+            <PERSON_NAME>Тест организ</PERSON_NAME>
+            <BRANCH>Тест организ</BRANCH>
+            <LEGAL_ADDRESS>
+                <POSTCODE>720000</POSTCODE>
+                <TOWN_CODE>41702215855020</TOWN_CODE>
+                <REGION>ЫСЫККУЛЬСКАЯ ОБЛАСТЬ</REGION>
+                <AREA>ЫСЫККУЛЬСКИЙ РАЙОН</AREA>
+                <TOWN>ЧОН-САРЫ-ОЙСКИЙ АИЛЬНЫЙ КЕНЕШ,С. БАЕТОВКА</TOWN>
+                <STREET>ул Московская</STREET>
+                <HOUSE>125</HOUSE>
+                <ROOM>23</ROOM>
+            </LEGAL_ADDRESS>
+            <NATURAL_ADDRESS>
+                <POSTCODE>720000</POSTCODE>
+                <REGION>Чуй</REGION>
+                <AREA>Ленинский</AREA>
+                <TOWN>г. Бишкек</TOWN>
+                <STREET>ул Московская</STREET>
+                <HOUSE>125</HOUSE>
+                <ROOM>45</ROOM>
+            </NATURAL_ADDRESS>
+            <PERFORMER>
+                <NAME>Стас Муковоз</NAME>
+                <POST>ген дир</POST>
+            </PERFORMER>
+        </PERSON>
+        <OPER>
+            <OPERDATE>06/11/2020 15:30:00</OPERDATE>
+            <OPER_CODE>2002</OPER_CODE>
+            <OPER_CODES>4202</OPER_CODES>
+            <SUMCUR>1234.00</SUMCUR>
+            <CUR_CODES>418</CUR_CODES>
+            <SUMTGT>1234</SUMTGT>
+            <SUM>1234</SUM>
+            <SHARE_QTY>00</SHARE_QTY>
+            <SHARE_CAPITAL>00</SHARE_CAPITAL>
+            <REASON>тест пользователя</REASON>
+            <LIMIT_CODES>тест пользователя</LIMIT_CODES>
+            <SHADY_CODES>20004</SHADY_CODES>
+            <STATUS_CODE>1</STATUS_CODE>
+            <PRTCOUNT>0</PRTCOUNT>
+        </OPER>
+        <PRTLIST>
+        </PRTLIST>
+    </ROW>
+    <ROW num="13">
+        <MSG>
+            <MSGNUM>27</MSGNUM>
+            <MSGDATE>06/26/2020 0:0:0</MSGDATE>
+            <PAGECOUNT>2</PAGECOUNT>
+            <MSGTYPE>1</MSGTYPE>
+        </MSG>
+        <PERSON>
+            <ORG_KIND>01</ORG_KIND>
+            <REGNUM>12345678</REGNUM>
+            <BANK_BIC>00</BANK_BIC>
+            <OKPO>234567</OKPO>
+            <ORGFORM_CODE>23</ORGFORM_CODE>
+            <PERSON_NAME>ОсОО Баланс</PERSON_NAME>
+            <BRANCH>ОсОО Баланс</BRANCH>
+            <LEGAL_ADDRESS>
+                <POSTCODE>720000</POSTCODE>
+                <TOWN_CODE>41711000000000</TOWN_CODE>
+                <REGION>БИШКЕК</REGION>
+                <TOWN>,Г. БИШКЕК</TOWN>
+                <STREET>ул Московская</STREET>
+                <HOUSE>125</HOUSE>
+                <ROOM>23</ROOM>
+            </LEGAL_ADDRESS>
+            <NATURAL_ADDRESS>
+                <POSTCODE>720000</POSTCODE>
+                <TOWN_CODE>41711000000000</TOWN_CODE>
+                <REGION>БИШКЕК</REGION>
+                <TOWN>,Г. БИШКЕК</TOWN>
+                <STREET>ул Московская</STREET>
+                <HOUSE>125</HOUSE>
+                <ROOM>45</ROOM>
+            </NATURAL_ADDRESS>
+            <PERFORMER>
+                <NAME>Станислав Муковоз</NAME>
+                <POST>Ген дир ОсОО Баланс</POST>
+            </PERFORMER>
+        </PERSON>
+        <OPER>
+            <OPERDATE>06/24/2020 15:30:00</OPERDATE>
+            <OPER_CODE>8001</OPER_CODE>
+            <SUMCUR>3567.00</SUMCUR>
+            <CUR_CODES>KGS</CUR_CODES>
+            <SUMTGT>3567</SUMTGT>
+            <SUM>3567</SUM>
+            <REASON>платеж клиента</REASON>
+            <LIMIT_CODES>10018</LIMIT_CODES>
+            <SHADY_CODES>00</SHADY_CODES>
+            <STATUS_CODE>1</STATUS_CODE>
+            <PRTCOUNT>1</PRTCOUNT>
+        </OPER>
+        <PRTLIST>
+            <PRTLIST_ITEM num="1">
+                <PAGENUM>002Ф</PAGENUM>
+                <PARTICIPANT>
+                    <PARTIC_KIND>01</PARTIC_KIND>
+                    <PHYSNAME>
+                        <LASTNAME>Мусаев</LASTNAME>
+                        <FIRSTNAME>Айбек</FIRSTNAME>
+                        <MIDDLENAME>Акматович</MIDDLENAME>
+                    </PHYSNAME>
+                    <REGNUM>2010219880354</REGNUM>
+                    <NATION_CODE>417</NATION_CODE>
+                    <OWNER>
+                    </OWNER>
+                    <LEGAL_ADDRESS>
+                        <REGION>БИШКЕК</REGION>
+                        <AREA>ЛЕНИНСКИЙ РАЙОН</AREA>
+                        <TOWN>ЧОН-АРЫКСКИЙ ПОСЕЛКОВЫЙ КЕНЕШ,С. ОРТО-САЙ</TOWN>
+                        <STREET>Петрова</STREET>
+                        <HOUSE>70</HOUSE>
+                        <ROOM>45</ROOM>
+                    </LEGAL_ADDRESS>
+                    <NATURAL_ADDRESS>
+                        <REGION>ЫСЫККУЛЬСКАЯ ОБЛАСТЬ</REGION>
+                        <AREA>АКСУЙСКИЙ РАЙОН</AREA>
+                        <TOWN>,ПГТ. ЖЫРГАЛАН</TOWN>
+                    </NATURAL_ADDRESS>
+                    <DOC>
+                        <DOC_CODE>05</DOC_CODE>
+                        <SERIES>00</SERIES>
+                        <NUM>456789</NUM>
+                        <ISSUEDATE>06/10/2020 0:0:0</ISSUEDATE>
+                        <ORGAN>МВД 67-89</ORGAN>
+                        <BIRTHDATE>06/10/2030 0:0:0</BIRTHDATE>
+                    </DOC>
+                </PARTICIPANT>
+                <ACCOUNT>
+                    <NUM>996775996688</NUM>
+                    <BANK>00</BANK>
+                    <BIC>00</BIC>
+                    <COUNTRY_CODE>00</COUNTRY_CODE>
+                    <STATE>2</STATE>
+                    <ADDRESS>00</ADDRESS>
+                </ACCOUNT>
+                <SHARES>
+                    <QTY>00</QTY>
+                </SHARES>
+            </PRTLIST_ITEM>
+        </PRTLIST>
+    </ROW>
+
+
+    <ROW num="14">
+        <MSG>
+            <MSGNUM>39</MSGNUM>
+            <MSGDATE>06/26/2020 0:0:0</MSGDATE>
+            <PAGECOUNT>2</PAGECOUNT>
+            <MSGTYPE>1</MSGTYPE>
+        </MSG>
+        <PERSON>
+            <ORG_KIND>01</ORG_KIND>
+            <REGNUM>12345678</REGNUM>
+            <BANK_BIC>00</BANK_BIC>
+            <OKPO>234567</OKPO>
+            <ORGFORM_CODE>23</ORGFORM_CODE>
+            <PERSON_NAME>ОсОО Баланс</PERSON_NAME>
+            <BRANCH>ОсОО Баланс</BRANCH>
+            <LEGAL_ADDRESS>
+                <POSTCODE>720000</POSTCODE>
+                <TOWN_CODE>41711000000000</TOWN_CODE>
+                <REGION>БИШКЕК</REGION>
+                <TOWN>,Г. БИШКЕК</TOWN>
+                <STREET>ул Московская</STREET>
+                <HOUSE>125</HOUSE>
+                <ROOM>23</ROOM>
+            </LEGAL_ADDRESS>
+            <NATURAL_ADDRESS>
+                <POSTCODE>720000</POSTCODE>
+                <TOWN_CODE>41711000000000</TOWN_CODE>
+                <REGION>БИШКЕК</REGION>
+                <TOWN>,Г. БИШКЕК</TOWN>
+                <STREET>ул Московская</STREET>
+                <HOUSE>125</HOUSE>
+                <ROOM>45</ROOM>
+            </NATURAL_ADDRESS>
+            <PERFORMER>
+                <NAME>Станислав Муковоз</NAME>
+                <POST>Ген дир ОсОО Баланс</POST>
+            </PERFORMER>
+        </PERSON>
+        <OPER>
+            <OPERDATE>06/24/2020 15:30:00</OPERDATE>
+            <OPER_CODE>8001</OPER_CODE>
+            <SUMCUR>3567.00</SUMCUR>
+            <CUR_CODES>KGS</CUR_CODES>
+            <SUMTGT>3567</SUMTGT>
+            <SUM>3567</SUM>
+            <REASON>платеж клиента</REASON>
+            <LIMIT_CODES>10018</LIMIT_CODES>
+            <SHADY_CODES>00</SHADY_CODES>
+            <STATUS_CODE>1</STATUS_CODE>
+            <PRTCOUNT>1</PRTCOUNT>
+        </OPER>
+        <PRTLIST>
+            <PRTLIST_ITEM num="1">
+                <PAGENUM>002Ф</PAGENUM>
+                <PARTICIPANT>
+                    <PARTIC_KIND>01</PARTIC_KIND>
+                    <PHYSNAME>
+                        <LASTNAME>Мусаев</LASTNAME>
+                        <FIRSTNAME>Айбек</FIRSTNAME>
+                        <MIDDLENAME>Акматович</MIDDLENAME>
+                    </PHYSNAME>
+                    <REGNUM>20010219880354</REGNUM>
+                    <NATION_CODE>417</NATION_CODE>
+                    <OWNER>
+                    </OWNER>
+                    <LEGAL_ADDRESS>
+                        <REGION>БИШКЕК</REGION>
+                        <AREA>ЛЕНИНСКИЙ РАЙОН</AREA>
+                        <TOWN>ЧОН-АРЫКСКИЙ ПОСЕЛКОВЫЙ КЕНЕШ,С. ОРТО-САЙ</TOWN>
+                        <STREET>Петрова</STREET>
+                        <HOUSE>70</HOUSE>
+                        <ROOM>45</ROOM>
+                    </LEGAL_ADDRESS>
+                    <NATURAL_ADDRESS>
+                        <REGION>ЫСЫККУЛЬСКАЯ ОБЛАСТЬ</REGION>
+                        <AREA>АКСУЙСКИЙ РАЙОН</AREA>
+                        <TOWN>,ПГТ. ЖЫРГАЛАН</TOWN>
+                    </NATURAL_ADDRESS>
+                    <DOC>
+                        <DOC_CODE>05</DOC_CODE>
+                        <SERIES>00</SERIES>
+                        <NUM>456789</NUM>
+                        <ISSUEDATE>06/10/2020 0:0:0</ISSUEDATE>
+                        <ORGAN>МВД 67-89</ORGAN>
+                        <BIRTHDATE>06/10/2030 0:0:0</BIRTHDATE>
+                    </DOC>
+                </PARTICIPANT>
+                <ACCOUNT>
+                    <NUM>996775996688</NUM>
+                    <BANK>00</BANK>
+                    <BIC>00</BIC>
+                    <COUNTRY_CODE>00</COUNTRY_CODE>
+                    <STATE>2</STATE>
+                    <ADDRESS>00</ADDRESS>
+                </ACCOUNT>
+                <SHARES>
+                    <QTY>00</QTY>
+                </SHARES>
+            </PRTLIST_ITEM>
+        </PRTLIST>
+    </ROW>
+    <ROW num="15">
+        <MSG>
+            <MSGNUM>40</MSGNUM>
+            <MSGDATE>06/26/2020 0:0:0</MSGDATE>
+            <PAGECOUNT>2</PAGECOUNT>
+            <MSGTYPE>1</MSGTYPE>
+        </MSG>
+        <PERSON>
+            <ORG_KIND>01</ORG_KIND>
+            <REGNUM>12345678</REGNUM>
+            <BANK_BIC>00</BANK_BIC>
+            <OKPO>234567</OKPO>
+            <ORGFORM_CODE>23</ORGFORM_CODE>
+            <PERSON_NAME>ОсОО Баланс</PERSON_NAME>
+            <BRANCH>ОсОО Баланс</BRANCH>
+            <LEGAL_ADDRESS>
+                <POSTCODE>720000</POSTCODE>
+                <TOWN_CODE>41711000000000</TOWN_CODE>
+                <REGION>БИШКЕК</REGION>
+                <TOWN>,Г. БИШКЕК</TOWN>
+                <STREET>ул Московская</STREET>
+                <HOUSE>125</HOUSE>
+                <ROOM>23</ROOM>
+            </LEGAL_ADDRESS>
+            <NATURAL_ADDRESS>
+                <POSTCODE>720000</POSTCODE>
+                <TOWN_CODE>41711000000000</TOWN_CODE>
+                <REGION>БИШКЕК</REGION>
+                <TOWN>,Г. БИШКЕК</TOWN>
+                <STREET>ул Московская</STREET>
+                <HOUSE>125</HOUSE>
+                <ROOM>45</ROOM>
+            </NATURAL_ADDRESS>
+            <PERFORMER>
+                <NAME>Станислав Муковоз</NAME>
+                <POST>Ген дир ОсОО Баланс</POST>
+            </PERFORMER>
+        </PERSON>
+        <OPER>
+            <OPERDATE>06/24/2020 15:30:00</OPERDATE>
+            <OPER_CODE>8001</OPER_CODE>
+            <SUMCUR>3567.00</SUMCUR>
+            <CUR_CODES>KGS</CUR_CODES>
+            <SUMTGT>3567</SUMTGT>
+            <SUM>3567</SUM>
+            <REASON>платеж клиента</REASON>
+            <LIMIT_CODES>10018</LIMIT_CODES>
+            <SHADY_CODES>00</SHADY_CODES>
+            <STATUS_CODE>1</STATUS_CODE>
+            <PRTCOUNT>1</PRTCOUNT>
+        </OPER>
+        <PRTLIST>
+            <PRTLIST_ITEM num="1">
+                <PAGENUM>002Ф</PAGENUM>
+                <PARTICIPANT>
+                    <PARTIC_KIND>01</PARTIC_KIND>
+                    <PHYSNAME>
+                        <LASTNAME>Мусаев</LASTNAME>
+                        <FIRSTNAME>Айбек</FIRSTNAME>
+                        <MIDDLENAME>Акматович</MIDDLENAME>
+                    </PHYSNAME>
+                    <REGNUM>20010219880354</REGNUM>
+                    <NATION_CODE>417</NATION_CODE>
+                    <OWNER>
+                    </OWNER>
+                    <LEGAL_ADDRESS>
+                        <REGION>БИШКЕК</REGION>
+                        <AREA>ЛЕНИНСКИЙ РАЙОН</AREA>
+                        <TOWN>ЧОН-АРЫКСКИЙ ПОСЕЛКОВЫЙ КЕНЕШ,С. ОРТО-САЙ</TOWN>
+                        <STREET>Петрова</STREET>
+                        <HOUSE>70</HOUSE>
+                        <ROOM>45</ROOM>
+                    </LEGAL_ADDRESS>
+                    <NATURAL_ADDRESS>
+                        <REGION>ЫСЫККУЛЬСКАЯ ОБЛАСТЬ</REGION>
+                        <AREA>АКСУЙСКИЙ РАЙОН</AREA>
+                        <TOWN>,ПГТ. ЖЫРГАЛАН</TOWN>
+                    </NATURAL_ADDRESS>
+                    <DOC>
+                        <DOC_CODE>05</DOC_CODE>
+                        <SERIES>00</SERIES>
+                        <NUM>456789</NUM>
+                        <ISSUEDATE>06/10/2020 0:0:0</ISSUEDATE>
+                        <ORGAN>МВД 67-89</ORGAN>
+                        <BIRTHDATE>06/10/2030 0:0:0</BIRTHDATE>
+                    </DOC>
+                </PARTICIPANT>
+                <ACCOUNT>
+                    <NUM>996775996688</NUM>
+                    <BANK>00</BANK>
+                    <BIC>00</BIC>
+                    <COUNTRY_CODE>00</COUNTRY_CODE>
+                    <STATE>2</STATE>
+                    <ADDRESS>00</ADDRESS>
+                </ACCOUNT>
+                <SHARES>
+                    <QTY>00</QTY>
+                </SHARES>
+            </PRTLIST_ITEM>
+        </PRTLIST>
+    </ROW>
+    <ROW num="16">
+        <MSG>
+            <MSGNUM>41</MSGNUM>
+            <MSGDATE>06/26/2020 0:0:0</MSGDATE>
+            <PAGECOUNT>2</PAGECOUNT>
+            <MSGTYPE>1</MSGTYPE>
+        </MSG>
+        <PERSON>
+            <ORG_KIND>01</ORG_KIND>
+            <REGNUM>12345678</REGNUM>
+            <BANK_BIC>00</BANK_BIC>
+            <OKPO>234567</OKPO>
+            <ORGFORM_CODE>23</ORGFORM_CODE>
+            <PERSON_NAME>ОсОО Баланс</PERSON_NAME>
+            <BRANCH>ОсОО Баланс</BRANCH>
+            <LEGAL_ADDRESS>
+                <POSTCODE>720000</POSTCODE>
+                <TOWN_CODE>41711000000000</TOWN_CODE>
+                <REGION>БИШКЕК</REGION>
+                <TOWN>,Г. БИШКЕК</TOWN>
+                <STREET>ул Московская</STREET>
+                <HOUSE>125</HOUSE>
+                <ROOM>23</ROOM>
+            </LEGAL_ADDRESS>
+            <NATURAL_ADDRESS>
+                <POSTCODE>720000</POSTCODE>
+                <TOWN_CODE>41711000000000</TOWN_CODE>
+                <REGION>БИШКЕК</REGION>
+                <TOWN>,Г. БИШКЕК</TOWN>
+                <STREET>ул Московская</STREET>
+                <HOUSE>125</HOUSE>
+                <ROOM>45</ROOM>
+            </NATURAL_ADDRESS>
+            <PERFORMER>
+                <NAME>Станислав Муковоз</NAME>
+                <POST>Ген дир ОсОО Баланс</POST>
+            </PERFORMER>
+        </PERSON>
+        <OPER>
+            <OPERDATE>06/24/2020 15:30:00</OPERDATE>
+            <OPER_CODE>8001</OPER_CODE>
+            <SUMCUR>3567.00</SUMCUR>
+            <CUR_CODES>KGS</CUR_CODES>
+            <SUMTGT>3567</SUMTGT>
+            <SUM>3567</SUM>
+            <REASON>платеж клиента</REASON>
+            <LIMIT_CODES>10018</LIMIT_CODES>
+            <SHADY_CODES>00</SHADY_CODES>
+            <STATUS_CODE>1</STATUS_CODE>
+            <PRTCOUNT>1</PRTCOUNT>
+        </OPER>
+        <PRTLIST>
+            <PRTLIST_ITEM num="1">
+                <PAGENUM>002Ф</PAGENUM>
+                <PARTICIPANT>
+                    <PARTIC_KIND>01</PARTIC_KIND>
+                    <PHYSNAME>
+                        <LASTNAME>Мусаев</LASTNAME>
+                        <FIRSTNAME>Айбек</FIRSTNAME>
+                        <MIDDLENAME>Акматович</MIDDLENAME>
+                    </PHYSNAME>
+                    <REGNUM>20010219880354</REGNUM>
+                    <NATION_CODE>417</NATION_CODE>
+                    <OWNER>
+                    </OWNER>
+                    <LEGAL_ADDRESS>
+                        <REGION>БИШКЕК</REGION>
+                        <AREA>ЛЕНИНСКИЙ РАЙОН</AREA>
+                        <TOWN>ЧОН-АРЫКСКИЙ ПОСЕЛКОВЫЙ КЕНЕШ,С. ОРТО-САЙ</TOWN>
+                        <STREET>Петрова</STREET>
+                        <HOUSE>70</HOUSE>
+                        <ROOM>45</ROOM>
+                    </LEGAL_ADDRESS>
+                    <NATURAL_ADDRESS>
+                        <REGION>ЫСЫККУЛЬСКАЯ ОБЛАСТЬ</REGION>
+                        <AREA>АКСУЙСКИЙ РАЙОН</AREA>
+                        <TOWN>,ПГТ. ЖЫРГАЛАН</TOWN>
+                    </NATURAL_ADDRESS>
+                    <DOC>
+                        <DOC_CODE>05</DOC_CODE>
+                        <SERIES>00</SERIES>
+                        <NUM>456789</NUM>
+                        <ISSUEDATE>06/10/2020 0:0:0</ISSUEDATE>
+                        <ORGAN>МВД 67-89</ORGAN>
+                        <BIRTHDATE>06/10/2030 0:0:0</BIRTHDATE>
+                    </DOC>
+                </PARTICIPANT>
+                <ACCOUNT>
+                    <NUM>996775996688</NUM>
+                    <BANK>00</BANK>
+                    <BIC>00</BIC>
+                    <COUNTRY_CODE>00</COUNTRY_CODE>
+                    <STATE>2</STATE>
+                    <ADDRESS>00</ADDRESS>
+                </ACCOUNT>
+                <SHARES>
+                    <QTY>00</QTY>
+                </SHARES>
+            </PRTLIST_ITEM>
+        </PRTLIST>
+    </ROW>
+    <ROW num="17">
+        <MSG>
+            <MSGNUM>42</MSGNUM>
+            <MSGDATE>06/26/2020 0:0:0</MSGDATE>
+            <PAGECOUNT>2</PAGECOUNT>
+            <MSGTYPE>1</MSGTYPE>
+        </MSG>
+        <PERSON>
+            <ORG_KIND>01</ORG_KIND>
+            <REGNUM>12345678</REGNUM>
+            <BANK_BIC>00</BANK_BIC>
+            <OKPO>234567</OKPO>
+            <ORGFORM_CODE>23</ORGFORM_CODE>
+            <PERSON_NAME>ОсОО Баланс</PERSON_NAME>
+            <BRANCH>ОсОО Баланс</BRANCH>
+            <LEGAL_ADDRESS>
+                <POSTCODE>720000</POSTCODE>
+                <TOWN_CODE>41711000000000</TOWN_CODE>
+                <REGION>БИШКЕК</REGION>
+                <TOWN>,Г. БИШКЕК</TOWN>
+                <STREET>ул Московская</STREET>
+                <HOUSE>125</HOUSE>
+                <ROOM>23</ROOM>
+            </LEGAL_ADDRESS>
+            <NATURAL_ADDRESS>
+                <POSTCODE>720000</POSTCODE>
+                <TOWN_CODE>41711000000000</TOWN_CODE>
+                <REGION>БИШКЕК</REGION>
+                <TOWN>,Г. БИШКЕК</TOWN>
+                <STREET>ул Московская</STREET>
+                <HOUSE>125</HOUSE>
+                <ROOM>45</ROOM>
+            </NATURAL_ADDRESS>
+            <PERFORMER>
+                <NAME>Станислав Муковоз</NAME>
+                <POST>Ген дир ОсОО Баланс</POST>
+            </PERFORMER>
+        </PERSON>
+        <OPER>
+            <OPERDATE>06/24/2020 15:30:00</OPERDATE>
+            <OPER_CODE>8001</OPER_CODE>
+            <SUMCUR>3567.00</SUMCUR>
+            <CUR_CODES>KGS</CUR_CODES>
+            <SUMTGT>3567</SUMTGT>
+            <SUM>3567</SUM>
+            <REASON>платеж клиента</REASON>
+            <LIMIT_CODES>10018</LIMIT_CODES>
+            <SHADY_CODES>00</SHADY_CODES>
+            <STATUS_CODE>1</STATUS_CODE>
+            <PRTCOUNT>1</PRTCOUNT>
+        </OPER>
+        <PRTLIST>
+            <PRTLIST_ITEM num="1">
+                <PAGENUM>002Ф</PAGENUM>
+                <PARTICIPANT>
+                    <PARTIC_KIND>01</PARTIC_KIND>
+                    <PHYSNAME>
+                        <LASTNAME>Мусаев</LASTNAME>
+                        <FIRSTNAME>Айбек</FIRSTNAME>
+                        <MIDDLENAME>Акматович</MIDDLENAME>
+                    </PHYSNAME>
+                    <REGNUM>20010219880354</REGNUM>
+                    <NATION_CODE>417</NATION_CODE>
+                    <OWNER>
+                    </OWNER>
+                    <LEGAL_ADDRESS>
+                        <REGION>БИШКЕК</REGION>
+                        <AREA>ЛЕНИНСКИЙ РАЙОН</AREA>
+                        <TOWN>ЧОН-АРЫКСКИЙ ПОСЕЛКОВЫЙ КЕНЕШ,С. ОРТО-САЙ</TOWN>
+                        <STREET>Петрова</STREET>
+                        <HOUSE>70</HOUSE>
+                        <ROOM>45</ROOM>
+                    </LEGAL_ADDRESS>
+                    <NATURAL_ADDRESS>
+                        <REGION>ЫСЫККУЛЬСКАЯ ОБЛАСТЬ</REGION>
+                        <AREA>АКСУЙСКИЙ РАЙОН</AREA>
+                        <TOWN>,ПГТ. ЖЫРГАЛАН</TOWN>
+                    </NATURAL_ADDRESS>
+                    <DOC>
+                        <DOC_CODE>05</DOC_CODE>
+                        <SERIES>00</SERIES>
+                        <NUM>456789</NUM>
+                        <ISSUEDATE>06/10/2020 0:0:0</ISSUEDATE>
+                        <ORGAN>МВД 67-89</ORGAN>
+                        <BIRTHDATE>06/10/2030 0:0:0</BIRTHDATE>
+                    </DOC>
+                </PARTICIPANT>
+                <ACCOUNT>
+                    <NUM>996775996688</NUM>
+                    <BANK>00</BANK>
+                    <BIC>00</BIC>
+                    <COUNTRY_CODE>00</COUNTRY_CODE>
+                    <STATE>2</STATE>
+                    <ADDRESS>00</ADDRESS>
+                </ACCOUNT>
+                <SHARES>
+                    <QTY>00</QTY>
+                </SHARES>
+            </PRTLIST_ITEM>
+        </PRTLIST>
+    </ROW>
+    <ROW num="18">
+        <MSG>
+            <MSGNUM>43</MSGNUM>
+            <MSGDATE>06/26/2020 0:0:0</MSGDATE>
+            <PAGECOUNT>2</PAGECOUNT>
+            <MSGTYPE>1</MSGTYPE>
+        </MSG>
+        <PERSON>
+            <ORG_KIND>01</ORG_KIND>
+            <REGNUM>12345678</REGNUM>
+            <BANK_BIC>00</BANK_BIC>
+            <OKPO>234567</OKPO>
+            <ORGFORM_CODE>23</ORGFORM_CODE>
+            <PERSON_NAME>ОсОО Баланс</PERSON_NAME>
+            <BRANCH>ОсОО Баланс</BRANCH>
+            <LEGAL_ADDRESS>
+                <POSTCODE>720000</POSTCODE>
+                <TOWN_CODE>41711000000000</TOWN_CODE>
+                <REGION>БИШКЕК</REGION>
+                <TOWN>,Г. БИШКЕК</TOWN>
+                <STREET>ул Московская</STREET>
+                <HOUSE>125</HOUSE>
+                <ROOM>23</ROOM>
+            </LEGAL_ADDRESS>
+            <NATURAL_ADDRESS>
+                <POSTCODE>720000</POSTCODE>
+                <TOWN_CODE>41711000000000</TOWN_CODE>
+                <REGION>БИШКЕК</REGION>
+                <TOWN>,Г. БИШКЕК</TOWN>
+                <STREET>ул Московская</STREET>
+                <HOUSE>125</HOUSE>
+                <ROOM>45</ROOM>
+            </NATURAL_ADDRESS>
+            <PERFORMER>
+                <NAME>Станислав Муковоз</NAME>
+                <POST>Ген дир ОсОО Баланс</POST>
+            </PERFORMER>
+        </PERSON>
+        <OPER>
+            <OPERDATE>06/24/2020 15:30:00</OPERDATE>
+            <OPER_CODE>8001</OPER_CODE>
+            <SUMCUR>3567.00</SUMCUR>
+            <CUR_CODES>KGS</CUR_CODES>
+            <SUMTGT>3567</SUMTGT>
+            <SUM>3567</SUM>
+            <REASON>платеж клиента</REASON>
+            <LIMIT_CODES>10018</LIMIT_CODES>
+            <SHADY_CODES>00</SHADY_CODES>
+            <STATUS_CODE>1</STATUS_CODE>
+            <PRTCOUNT>1</PRTCOUNT>
+        </OPER>
+        <PRTLIST>
+            <PRTLIST_ITEM num="1">
+                <PAGENUM>002Ф</PAGENUM>
+                <PARTICIPANT>
+                    <PARTIC_KIND>01</PARTIC_KIND>
+                    <PHYSNAME>
+                        <LASTNAME>Мусаев</LASTNAME>
+                        <FIRSTNAME>Айбек</FIRSTNAME>
+                        <MIDDLENAME>Акматович</MIDDLENAME>
+                    </PHYSNAME>
+                    <REGNUM>20010219880354</REGNUM>
+                    <NATION_CODE>417</NATION_CODE>
+                    <OWNER>
+                    </OWNER>
+                    <LEGAL_ADDRESS>
+                        <REGION>БИШКЕК</REGION>
+                        <AREA>ЛЕНИНСКИЙ РАЙОН</AREA>
+                        <TOWN>ЧОН-АРЫКСКИЙ ПОСЕЛКОВЫЙ КЕНЕШ,С. ОРТО-САЙ</TOWN>
+                        <STREET>Петрова</STREET>
+                        <HOUSE>70</HOUSE>
+                        <ROOM>45</ROOM>
+                    </LEGAL_ADDRESS>
+                    <NATURAL_ADDRESS>
+                        <REGION>ЫСЫККУЛЬСКАЯ ОБЛАСТЬ</REGION>
+                        <AREA>АКСУЙСКИЙ РАЙОН</AREA>
+                        <TOWN>,ПГТ. ЖЫРГАЛАН</TOWN>
+                    </NATURAL_ADDRESS>
+                    <DOC>
+                        <DOC_CODE>05</DOC_CODE>
+                        <SERIES>00</SERIES>
+                        <NUM>456789</NUM>
+                        <ISSUEDATE>06/10/2020 0:0:0</ISSUEDATE>
+                        <ORGAN>МВД 67-89</ORGAN>
+                        <BIRTHDATE>06/10/2030 0:0:0</BIRTHDATE>
+                    </DOC>
+                </PARTICIPANT>
+                <ACCOUNT>
+                    <NUM>996775996688</NUM>
+                    <BANK>00</BANK>
+                    <BIC>00</BIC>
+                    <COUNTRY_CODE>00</COUNTRY_CODE>
+                    <STATE>2</STATE>
+                    <ADDRESS>00</ADDRESS>
+                </ACCOUNT>
+                <SHARES>
+                    <QTY>00</QTY>
+                </SHARES>
+            </PRTLIST_ITEM>
+        </PRTLIST>
+    </ROW>
+    <ROW num="19">
+        <MSG>
+            <MSGNUM>44</MSGNUM>
+            <MSGDATE>06/26/2020 0:0:0</MSGDATE>
+            <PAGECOUNT>2</PAGECOUNT>
+            <MSGTYPE>1</MSGTYPE>
+        </MSG>
+        <PERSON>
+            <ORG_KIND>01</ORG_KIND>
+            <REGNUM>12345678</REGNUM>
+            <BANK_BIC>00</BANK_BIC>
+            <OKPO>234567</OKPO>
+            <ORGFORM_CODE>23</ORGFORM_CODE>
+            <PERSON_NAME>ОсОО Баланс</PERSON_NAME>
+            <BRANCH>ОсОО Баланс</BRANCH>
+            <LEGAL_ADDRESS>
+                <POSTCODE>720000</POSTCODE>
+                <TOWN_CODE>41711000000000</TOWN_CODE>
+                <REGION>БИШКЕК</REGION>
+                <TOWN>,Г. БИШКЕК</TOWN>
+                <STREET>ул Московская</STREET>
+                <HOUSE>125</HOUSE>
+                <ROOM>23</ROOM>
+            </LEGAL_ADDRESS>
+            <NATURAL_ADDRESS>
+                <POSTCODE>720000</POSTCODE>
+                <TOWN_CODE>41711000000000</TOWN_CODE>
+                <REGION>БИШКЕК</REGION>
+                <TOWN>,Г. БИШКЕК</TOWN>
+                <STREET>ул Московская</STREET>
+                <HOUSE>125</HOUSE>
+                <ROOM>45</ROOM>
+            </NATURAL_ADDRESS>
+            <PERFORMER>
+                <NAME>Станислав Муковоз</NAME>
+                <POST>Ген дир ОсОО Баланс</POST>
+            </PERFORMER>
+        </PERSON>
+        <OPER>
+            <OPERDATE>06/24/2020 15:30:00</OPERDATE>
+            <OPER_CODE>8001</OPER_CODE>
+            <SUMCUR>3567.00</SUMCUR>
+            <CUR_CODES>KGS</CUR_CODES>
+            <SUMTGT>3567</SUMTGT>
+            <SUM>3567</SUM>
+            <REASON>платеж клиента</REASON>
+            <LIMIT_CODES>10018</LIMIT_CODES>
+            <SHADY_CODES>00</SHADY_CODES>
+            <STATUS_CODE>1</STATUS_CODE>
+            <PRTCOUNT>1</PRTCOUNT>
+        </OPER>
+        <PRTLIST>
+            <PRTLIST_ITEM num="1">
+                <PAGENUM>002Ф</PAGENUM>
+                <PARTICIPANT>
+                    <PARTIC_KIND>01</PARTIC_KIND>
+                    <PHYSNAME>
+                        <LASTNAME>Мусаев</LASTNAME>
+                        <FIRSTNAME>Айбек</FIRSTNAME>
+                        <MIDDLENAME>Акматович</MIDDLENAME>
+                    </PHYSNAME>
+                    <REGNUM>20010219880354</REGNUM>
+                    <NATION_CODE>417</NATION_CODE>
+                    <OWNER>
+                    </OWNER>
+                    <LEGAL_ADDRESS>
+                        <REGION>БИШКЕК</REGION>
+                        <AREA>ЛЕНИНСКИЙ РАЙОН</AREA>
+                        <TOWN>ЧОН-АРЫКСКИЙ ПОСЕЛКОВЫЙ КЕНЕШ,С. ОРТО-САЙ</TOWN>
+                        <STREET>Петрова</STREET>
+                        <HOUSE>70</HOUSE>
+                        <ROOM>45</ROOM>
+                    </LEGAL_ADDRESS>
+                    <NATURAL_ADDRESS>
+                        <REGION>ЫСЫККУЛЬСКАЯ ОБЛАСТЬ</REGION>
+                        <AREA>АКСУЙСКИЙ РАЙОН</AREA>
+                        <TOWN>,ПГТ. ЖЫРГАЛАН</TOWN>
+                    </NATURAL_ADDRESS>
+                    <DOC>
+                        <DOC_CODE>05</DOC_CODE>
+                        <SERIES>00</SERIES>
+                        <NUM>456789</NUM>
+                        <ISSUEDATE>06/10/2020 0:0:0</ISSUEDATE>
+                        <ORGAN>МВД 67-89</ORGAN>
+                        <BIRTHDATE>06/10/2030 0:0:0</BIRTHDATE>
+                    </DOC>
+                </PARTICIPANT>
+                <ACCOUNT>
+                    <NUM>996775996688</NUM>
+                    <BANK>00</BANK>
+                    <BIC>00</BIC>
+                    <COUNTRY_CODE>00</COUNTRY_CODE>
+                    <STATE>2</STATE>
+                    <ADDRESS>00</ADDRESS>
+                </ACCOUNT>
+                <SHARES>
+                    <QTY>00</QTY>
+                </SHARES>
+            </PRTLIST_ITEM>
+        </PRTLIST>
+    </ROW>
+    <ROW num="20">
+        <MSG>
+            <MSGNUM>45</MSGNUM>
+            <MSGDATE>06/26/2020 0:0:0</MSGDATE>
+            <PAGECOUNT>2</PAGECOUNT>
+            <MSGTYPE>1</MSGTYPE>
+        </MSG>
+        <PERSON>
+            <ORG_KIND>01</ORG_KIND>
+            <REGNUM>12345678</REGNUM>
+            <BANK_BIC>00</BANK_BIC>
+            <OKPO>234567</OKPO>
+            <ORGFORM_CODE>23</ORGFORM_CODE>
+            <PERSON_NAME>ОсОО Баланс</PERSON_NAME>
+            <BRANCH>ОсОО Баланс</BRANCH>
+            <LEGAL_ADDRESS>
+                <POSTCODE>720000</POSTCODE>
+                <TOWN_CODE>41711000000000</TOWN_CODE>
+                <REGION>БИШКЕК</REGION>
+                <TOWN>,Г. БИШКЕК</TOWN>
+                <STREET>ул Московская</STREET>
+                <HOUSE>125</HOUSE>
+                <ROOM>23</ROOM>
+            </LEGAL_ADDRESS>
+            <NATURAL_ADDRESS>
+                <POSTCODE>720000</POSTCODE>
+                <TOWN_CODE>41711000000000</TOWN_CODE>
+                <REGION>БИШКЕК</REGION>
+                <TOWN>,Г. БИШКЕК</TOWN>
+                <STREET>ул Московская</STREET>
+                <HOUSE>125</HOUSE>
+                <ROOM>45</ROOM>
+            </NATURAL_ADDRESS>
+            <PERFORMER>
+                <NAME>Станислав Муковоз</NAME>
+                <POST>Ген дир ОсОО Баланс</POST>
+            </PERFORMER>
+        </PERSON>
+        <OPER>
+            <OPERDATE>06/24/2020 15:30:00</OPERDATE>
+            <OPER_CODE>8001</OPER_CODE>
+            <SUMCUR>3567.00</SUMCUR>
+            <CUR_CODES>KGS</CUR_CODES>
+            <SUMTGT>3567</SUMTGT>
+            <SUM>3567</SUM>
+            <REASON>платеж клиента</REASON>
+            <LIMIT_CODES>10018</LIMIT_CODES>
+            <SHADY_CODES>00</SHADY_CODES>
+            <STATUS_CODE>1</STATUS_CODE>
+            <PRTCOUNT>1</PRTCOUNT>
+        </OPER>
+        <PRTLIST>
+            <PRTLIST_ITEM num="1">
+                <PAGENUM>002Ф</PAGENUM>
+                <PARTICIPANT>
+                    <PARTIC_KIND>01</PARTIC_KIND>
+                    <PHYSNAME>
+                        <LASTNAME>Мусаев</LASTNAME>
+                        <FIRSTNAME>Айбек</FIRSTNAME>
+                        <MIDDLENAME>Акматович</MIDDLENAME>
+                    </PHYSNAME>
+                    <REGNUM>20010219880354</REGNUM>
+                    <NATION_CODE>417</NATION_CODE>
+                    <OWNER>
+                    </OWNER>
+                    <LEGAL_ADDRESS>
+                        <REGION>БИШКЕК</REGION>
+                        <AREA>ЛЕНИНСКИЙ РАЙОН</AREA>
+                        <TOWN>ЧОН-АРЫКСКИЙ ПОСЕЛКОВЫЙ КЕНЕШ,С. ОРТО-САЙ</TOWN>
+                        <STREET>Петрова</STREET>
+                        <HOUSE>70</HOUSE>
+                        <ROOM>45</ROOM>
+                    </LEGAL_ADDRESS>
+                    <NATURAL_ADDRESS>
+                        <REGION>ЫСЫККУЛЬСКАЯ ОБЛАСТЬ</REGION>
+                        <AREA>АКСУЙСКИЙ РАЙОН</AREA>
+                        <TOWN>,ПГТ. ЖЫРГАЛАН</TOWN>
+                    </NATURAL_ADDRESS>
+                    <DOC>
+                        <DOC_CODE>05</DOC_CODE>
+                        <SERIES>00</SERIES>
+                        <NUM>456789</NUM>
+                        <ISSUEDATE>06/10/2020 0:0:0</ISSUEDATE>
+                        <ORGAN>МВД 67-89</ORGAN>
+                        <BIRTHDATE>06/10/2030 0:0:0</BIRTHDATE>
+                    </DOC>
+                </PARTICIPANT>
+                <ACCOUNT>
+                    <NUM>996775996688</NUM>
+                    <BANK>00</BANK>
+                    <BIC>00</BIC>
+                    <COUNTRY_CODE>00</COUNTRY_CODE>
+                    <STATE>2</STATE>
+                    <ADDRESS>00</ADDRESS>
+                </ACCOUNT>
+                <SHARES>
+                    <QTY>00</QTY>
+                </SHARES>
+            </PRTLIST_ITEM>
+        </PRTLIST>
+    </ROW>
+    <ROW num='21'>
+        <MSG>
+            <MSGNUM>46</MSGNUM>
+            <MSGDATE>06/26/2020 0:0:0</MSGDATE>
+            <PAGECOUNT>2</PAGECOUNT>
+            <MSGTYPE>1</MSGTYPE>
+        </MSG>
+        <PERSON>
+            <ORG_KIND>01</ORG_KIND>
+            <REGNUM>12345678</REGNUM>
+            <BANK_BIC>00</BANK_BIC>
+            <OKPO>234567</OKPO>
+            <ORGFORM_CODE>23</ORGFORM_CODE>
+            <PERSON_NAME>ОсОО Баланс</PERSON_NAME>
+            <BRANCH>ОсОО Баланс</BRANCH>
+            <LEGAL_ADDRESS>
+                <POSTCODE>720000</POSTCODE>
+                <TOWN_CODE>41711000000000</TOWN_CODE>
+                <REGION>БИШКЕК</REGION>
+                <TOWN>,Г. БИШКЕК</TOWN>
+                <STREET>ул Московская</STREET>
+                <HOUSE>125</HOUSE>
+                <ROOM>23</ROOM>
+            </LEGAL_ADDRESS>
+            <NATURAL_ADDRESS>
+                <POSTCODE>720000</POSTCODE>
+                <TOWN_CODE>41711000000000</TOWN_CODE>
+                <REGION>БИШКЕК</REGION>
+                <TOWN>,Г. БИШКЕК</TOWN>
+                <STREET>ул Московская</STREET>
+                <HOUSE>125</HOUSE>
+                <ROOM>45</ROOM>
+            </NATURAL_ADDRESS>
+            <PERFORMER>
+                <NAME>Станислав Муковоз</NAME>
+                <POST>Ген дир ОсОО Баланс</POST>
+            </PERFORMER>
+        </PERSON>
+        <OPER>
+            <OPERDATE>06/24/2020 15:30:00</OPERDATE>
+            <OPER_CODE>8001</OPER_CODE>
+            <SUMCUR>3567.00</SUMCUR>
+            <CUR_CODES>KGS</CUR_CODES>
+            <SUMTGT>3567</SUMTGT>
+            <SUM>3567</SUM>
+            <REASON>платеж клиента</REASON>
+            <LIMIT_CODES>10018</LIMIT_CODES>
+            <SHADY_CODES>00</SHADY_CODES>
+            <STATUS_CODE>1</STATUS_CODE>
+            <PRTCOUNT>1</PRTCOUNT>
+        </OPER>
+        <PRTLIST>
+            <PRTLIST_ITEM num='1'>
+                <PAGENUM>002Ф</PAGENUM>
+                <PARTICIPANT>
+                    <PARTIC_KIND>01</PARTIC_KIND>
+                    <PHYSNAME>
+                        <LASTNAME>Мусаев</LASTNAME>
+                        <FIRSTNAME>Айбек</FIRSTNAME>
+                        <MIDDLENAME>Акматович</MIDDLENAME>
+                    </PHYSNAME>
+                    <REGNUM>20010219880354</REGNUM>
+                    <NATION_CODE>417</NATION_CODE>
+                    <OWNER>
+                    </OWNER>
+                    <LEGAL_ADDRESS>
+                        <REGION>БИШКЕК</REGION>
+                        <AREA>ЛЕНИНСКИЙ РАЙОН</AREA>
+                        <TOWN>ЧОН-АРЫКСКИЙ ПОСЕЛКОВЫЙ КЕНЕШ,С. ОРТО-САЙ</TOWN>
+                        <STREET>Петрова</STREET>
+                        <HOUSE>70</HOUSE>
+                        <ROOM>45</ROOM>
+                    </LEGAL_ADDRESS>
+                    <NATURAL_ADDRESS>
+                        <REGION>ЫСЫККУЛЬСКАЯ ОБЛАСТЬ</REGION>
+                        <AREA>АКСУЙСКИЙ РАЙОН</AREA>
+                        <TOWN>,ПГТ. ЖЫРГАЛАН</TOWN>
+                    </NATURAL_ADDRESS>
+                    <DOC>
+                        <DOC_CODE>05</DOC_CODE>
+                        <SERIES>00</SERIES>
+                        <NUM>456789</NUM>
+                        <ISSUEDATE>06/10/2020 0:0:0</ISSUEDATE>
+                        <ORGAN>МВД 67-89</ORGAN>
+                        <BIRTHDATE>06/10/2030 0:0:0</BIRTHDATE>
+                    </DOC>
+                </PARTICIPANT>
+                <ACCOUNT>
+                    <NUM>996775996688</NUM>
+                    <BANK>00</BANK>
+                    <BIC>00</BIC>
+                    <COUNTRY_CODE>00</COUNTRY_CODE>
+                    <STATE>2</STATE>
+                    <ADDRESS>00</ADDRESS>
+                </ACCOUNT>
+                <SHARES>
+                    <QTY>00</QTY>
+                </SHARES>
+            </PRTLIST_ITEM>
+        </PRTLIST>
+    </ROW>
+</ROWSET>

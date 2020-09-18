@@ -1,0 +1,31 @@
+<PERSON>
+    <ORG_KIND>01</ORG_KIND>
+    <REGNUM>12345678</REGNUM>
+    <BANK_BIC>00</BANK_BIC>
+    <OKPO>234567</OKPO>
+    <ORGFORM_CODE>23</ORGFORM_CODE>
+    <PERSON_NAME>ОсОО Баланс</PERSON_NAME>
+    <BRANCH>ОсОО Баланс</BRANCH>
+    <LEGAL_ADDRESS>
+        <POSTCODE>720000</POSTCODE>
+        <TOWN_CODE>41711000000000</TOWN_CODE>
+        <REGION>БИШКЕК</REGION>
+        <TOWN>,Г. БИШКЕК</TOWN>
+        <STREET>ул Московская</STREET>
+        <HOUSE>125</HOUSE>
+        <ROOM>23</ROOM>
+    </LEGAL_ADDRESS>
+    <NATURAL_ADDRESS>
+        <POSTCODE>720000</POSTCODE>
+        <TOWN_CODE>41711000000000</TOWN_CODE>
+        <REGION>БИШКЕК</REGION>
+        <TOWN>,Г. БИШКЕК</TOWN>
+        <STREET>ул Московская</STREET>
+        <HOUSE>125</HOUSE>
+        <ROOM>45</ROOM>
+    </NATURAL_ADDRESS>
+    <PERFORMER>
+        <NAME>Станислав Муковоз</NAME>
+        <POST>Ген дир ОсОО Баланс</POST>
+    </PERFORMER>
+</PERSON>
